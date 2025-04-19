@@ -1,12 +1,13 @@
 
-import './App.css'
+
+import Body from './Components/Body'
 
 function App() {
   
 
   return (
     <>
-      <h1 className='text-red-600 text-3xl font-bold'>Namaste react lets build netflix gpt from scratch</h1>
+      <Body/>
     </>
   )
 }
